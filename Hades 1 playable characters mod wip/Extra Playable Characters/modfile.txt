@@ -1,0 +1,12 @@
+Top Import "config.lua"
+Import "main.lua"
+
+Import "Mod Scripts/HeroData.lua"
+
+Import "Mod Scripts/RoomPresentation.lua"
+
+
+To "Game/Units/PlayerUnits.sjson"
+SJSON "PUnits/PlayerUnits.sjson"
+
+
